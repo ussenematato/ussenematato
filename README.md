@@ -32,7 +32,7 @@
 
 ## Training
 - Computer Science Student
-- 👀 I’m interested in development of Web and Desktop Aplications.
+- 👀 I’m interested in development of Systems and Data Analiysis.
 - 🌱 I’m currently learning HTML 5 and CSS 3 by myself and Java at University.
 - 💞️ I’m looking to collaborate on opensource projects that can allow me to learn more about Programing of Systems.
 - 📫 You can reach me through my social networks and my personal email..
@@ -40,4 +40,4 @@
  ## contact
  How to reach me<br/>
   ussene.c.matato@gmail.com<br/>
- Moving on to the future</br>
+ Focus on Moving to the next Level</br>
