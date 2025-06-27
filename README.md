@@ -2,7 +2,7 @@
 - I’m interested in development of Systems and Data Analiysis.
 - I’m looking to collaborate on opensource projects that can allow me to learn more about Development of Systems and to contribute for them with my knowledge and skills.
 
-[![Blog](https://img.shields.io/website?label=UsseneMatato.com&style=for-the-badge&url=https://ussenematato.netlify.app)](https://ussenematato.netlify.app/)
+[![Blog](https://img.shields.io/website?label=UsseneMatato.com&style=for-the-badge&url=https://ussenematato.github.io/MyPortfolio)](https://ussenematato.github.io/MyPortfolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ussene-matato-28b05335a/)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitee)](mailto:ussene.c.matato@hotmail.com/)
 
